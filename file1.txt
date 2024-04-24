@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 BYE BYE
+=======
+Hey Hey
+>>>>>>> branch1
